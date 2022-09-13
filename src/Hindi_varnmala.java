@@ -6,6 +6,5 @@ public class Hindi_varnmala {
         for ( int i =ascii; i<=0X0970;i++) {
             System.out.print((char) i+" ");
         }
-
     }
 }
