@@ -12,9 +12,9 @@ public class leapYear {
             else leap=true;
         }else
             leap = false;
-        if (leap){
+        if (leap)
             System.out.println(n +" is a leap year");
-        }else
+        else
             System.out.println(n +" is not a leap year");
     }
 }
