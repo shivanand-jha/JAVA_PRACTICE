@@ -5,15 +5,15 @@ import java.util.*;
 public class Debasis_Sir_01 {
     public static void main(String[] args) {
 
-//        System.out.println("Hello Computer vision Course // java course too !");
-//        System.out.print("\t\t\t\t\t Debasis Samanta");
-//        System.out.print("Hello Java!");
-//        System.out.println("   Hi!");
-//        System.out.print("Hello Java! \n" + "Hi!");
-//        System.out.println();
-//        System.out.print("1 2 3 4 \n");
-//        System.out.print("5 6 7 8 \n");
-//        System.out.print("9 10 11 12 \n");
+        System.out.println("Hello Computer vision Course // java course too !");
+        System.out.print("\t\t\t\t\t Debasis Samanta");
+        System.out.print("Hello Java!");
+        System.out.println("   Hi!");
+        System.out.print("Hello Java! \n" + "Hi!");
+        System.out.println();
+        System.out.print("1 2 3 4 \n");
+        System.out.print("5 6 7 8 \n");
+        System.out.print("9 10 11 12 \n");
 //        ArrayList<Integer> ans = new ArrayList<>();
 //        HashMap<Integer,Integer> map = new HashMap<>();
 //        int arr[] = {1,2,3,4,3,2};
